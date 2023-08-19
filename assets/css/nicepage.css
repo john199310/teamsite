@@ -7423,6 +7423,11 @@ section.u-image:not(.u-hover-box),
     top: 0 !important;
   }
 }
+
+#team {
+  width: 100% !important;
+}
+
 .u-valign-middle,
 .u-valign-top,
 .u-valign-bottom {
